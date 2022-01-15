@@ -1,0 +1,9 @@
+body {
+  background-color: #24353f;
+}
+.entryForm {
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.form-control {
+  background-color: transparent;
+}
